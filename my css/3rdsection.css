@@ -1,0 +1,81 @@
+.rdsection{
+    padding-top: 5%;
+    padding-bottom: 25%;
+    padding-left: 7%;
+    padding-right: 5%;
+    background-color: rgb(232, 240, 243);  
+}
+.premium section {
+    
+    justify-content: center;
+    align-items: center;
+}
+
+.cost {
+    color: blue;
+    font-size: 70%;
+}
+
+.premium { 
+    color: black; 
+    justify-content: center;
+    align-items: center;
+    font-size: 47px;
+}
+.serviceframe{
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+ .thewhole >p{
+    font-size: 29px;
+ }
+ .toquickly {
+    padding-top: 1%;
+    padding-bottom: 4%;
+    font-size: 22.5px;
+    font-weight: 400px;
+    line-height: 32px;
+    letter-spacing: 0em;
+    text-align: left;
+    font-family: Poppins;
+}
+.Rectangle{
+    justify-content: space-between;
+    position: absolute; 
+}
+
+.iimmage >img{
+    position: absolute;
+    padding-left: 4%;
+    padding-top: 3%;
+
+}
+.iimmage >p{
+    position: absolute;
+    margin-bottom: 200px;
+    padding-left: 4%;
+    padding-top: 7%;
+    font-size: 130%;
+}
+.image22{
+    position: absolute;
+    padding-left: 31%;
+    padding-top: 3%;   
+}
+
+.image22 >p{
+     padding-top: 8%;
+     font-size: 130%;
+}
+
+.iimmaagge{
+    position: absolute;
+    margin-bottom: 200px;
+    padding-left: 58%;
+    padding-top: 3%;   
+}
+.iimmaagge >p{
+    padding-top: 8%;
+    font-size: 130%;
+}

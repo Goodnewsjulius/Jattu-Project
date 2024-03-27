@@ -1,0 +1,39 @@
+.sectionsix{
+    padding-top: 5%;
+    background-color: rgb(226, 240, 252);
+    padding-left: 7%;
+    padding-right: 5%;
+    padding-bottom: 5%;
+    
+
+}
+.sectionsiximage{
+    position: absolute;
+}
+.sectionsixprg{
+   
+    padding-left: 8%;
+    padding-top: 6%;
+    
+}
+.sectionsixsix{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.sectionsix1{
+    padding-left: 12%;
+    padding-top: 22%;
+}
+.sectionsix2 {
+    padding-right: 14%;
+    
+   
+}
+.sectionsix3{
+    padding-right: 14%;
+}
+
+.sectionsixlast{
+    text-align: center;
+}

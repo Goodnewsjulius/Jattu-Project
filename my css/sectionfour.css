@@ -1,0 +1,85 @@
+.sectionfour{
+   display: flex;
+   justify-content: space-between;
+     }
+
+.sectionfourimages {
+    padding-top: 8%;
+    padding-bottom: 4%;
+    padding-left: 8%;
+    position: absolute; 
+}
+
+.sectionfourimg {
+    padding-left: none;
+    padding-top: 18%;   
+}
+
+.machine {
+    color: rgba(0, 112, 240, 0.9);
+    font-family:Arial, Helvetica, sans-serif;
+    font-family: Poppins;
+    font-size: 16px;
+    padding-right: 5%;
+    padding-top: 12%;
+    
+} 
+.machine h1 {
+    font-size: 370%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    color: rgba(31, 40, 79, 1);
+    font-family: Poppins;
+}
+
+.paragraphpb{
+    color: rgba(31, 40, 79, 1);
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.sectionfourlogo{
+    display: flex;
+    padding-top: 3%;
+    height: 30%;
+}
+
+.sectionfourbtn{
+    padding-top: 3%;
+
+}
+
+.lastpart{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 5%;
+    padding-left: 7%;
+    padding-right: 5%;
+    font-size: 23px;
+    line-height: 26px;
+    letter-spacing: 0em;
+    text-align: left;
+    
+}
+.lastpart2{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 5%;
+    padding-left: 7%;
+    padding-right: 5%;
+    font-family: Poppins;
+    font-size: 23px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+.background{
+    background-color: white;
+    padding-top: 9%;
+}

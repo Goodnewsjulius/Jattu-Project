@@ -1,0 +1,726 @@
+/* For Mobile Screens */
+@media only screen and (max-width: 600px){
+    .Navbar{
+        padding-left: 4% !important;
+        padding-right: 4% !important;
+    }
+    .link   >select{
+        display: none !important;
+    }
+    .btn >button{
+        display: none !important;
+    }
+    .logo{
+        font-size: 20px !important;
+    }
+
+    .menu{
+        display: block !important;
+      }
+      .icon{
+        display: block !important;
+      }
+      .exit-icon{
+        display: block !important;
+      }
+
+    .herosection{
+        padding-left: 4% !important;
+        padding-right: 4% !important;
+        justify-content: center !important;
+        display: flex !important;
+        flex-direction: column !important;
+    }
+
+    .headinh{
+        justify-content: center !important;
+        display: flex !important;
+        padding-top: 25% !important;
+        font-weight: 400px !important;
+        text-align: left !important;
+     
+        
+    }   
+     .subheading{
+        font-size: 30px !important;
+        padding-top: 5% !important;
+     }
+
+     .heroimg{
+        padding-top: 8% !important;
+
+    }
+    
+    .radio{
+        padding-top: 5% !important;
+        font-size: 21px !important;
+        justify-content: space-between !important; 
+    }
+
+    .sub{ 
+        padding-top: 15% !important;
+        padding-bottom: 6% !important;
+        padding-left: 4% !important;
+        padding-right: 4% !important;
+        font-size: 109% !important;
+     }
+
+     .rdsection{
+        padding-left: 4% !important;
+        padding-right: 4% !important;
+        flex-direction: column !important;
+        padding-bottom: 35% !important;
+
+    }
+    .cost{
+        font-size: 90% !important;
+    }
+
+    .premium{
+        font-size: 33px !important;
+        padding-top: 5% !important;
+    }
+
+    .thewhole{
+        display: none !important;
+    }
+
+    .toquickly {
+        padding-top: 4% !important;
+        font-size: 18px !important;
+        line-height: 25px !important;
+    }
+   .Rectangle{
+        padding-left: 4% !important;
+        padding-right: 4% !important;
+        padding-top: 8% !important;
+      
+    
+   }
+
+   .the3image {
+        flex-direction: column !important;
+      
+    }
+
+    .iimmage >img{  
+        padding-top: 20% !important;
+        padding-left: 12% !important; 
+    }
+
+    .iimmage >p{
+        padding-top: 36% !important;
+        padding-left: 12% !important; 
+        font-size: 132% !important;
+    }
+
+    .image22{
+        padding-left: 12% !important;
+        padding-top: 83% !important;
+        font-size:  112% !important;
+    }
+        
+        .iimmaagge{
+            padding-left: 12% !important;
+            padding-top: 143% !important;
+            font-size:  112% !important;
+        }
+
+    .sectionfour{
+        display: flex !important;
+        flex-direction: column !important;
+        }
+    
+    .sectionfourimages {
+         padding-top: 186% !important;
+         padding-left: 4% !important;
+         padding-right: 4% !important;
+        }
+     
+   .sectionfourimg {
+        padding-top: 210% !important;
+        }
+
+    .machine{
+        padding-left: 4% !important;
+        padding-right: 4% !important;
+        font-size: 22px !important;
+        padding-top: 15% !important;
+    }
+
+    .machine h1 {
+        font-size: 200% !important;
+    }
+
+    .paragraphpb{
+        font-size: 30px !important;    
+    }
+
+    .sectionfourlogo{
+        padding-top: 7% !important;
+        max-width: 100% !important;
+        
+        
+
+    }
+    
+    .sectionfourbtn{
+        padding-top: 7% !important;
+       
+    
+    }
+
+    .lastpart{
+        flex-direction: column !important;
+    }
+
+    .lastpart >img{
+        padding-top : 4% !important ;
+        width: 60px !important;
+        height: 70px !important;
+        
+    }
+
+    .lastpart >p{
+       font-size: 24px !important;
+       
+        
+    }
+    
+    .lastpart2{
+        flex-direction: column !important;
+    }
+
+    .lastpart2 >img{
+        padding-top : 4% !important ;
+        width: 60px !important;
+        height: 70px !important;
+    }
+
+    .lastpart2 >p{
+       font-size: 24px !important;
+     }
+
+     .sectionfive{
+        height: 900px !important;
+        padding-left: 4% !important;
+        padding-right: 4% !important;
+        padding-top: 12% !important;
+
+    }
+
+    .sectionfive  >h1{
+        font-size: 35px !important;
+      
+
+    }
+
+    .radiobutton{
+        flex-direction: column !important;
+        font-size: 30px !important;
+        padding-top: 8% !important;
+    }
+
+  
+
+      .img2{
+        padding-top: 12% !important;
+      }
+
+      .img3{
+        padding-top: 12% !important;
+       
+      }
+
+      .sectionsix{
+        padding-top: 20% !important;
+        padding-left: 4% !important;
+        padding-left: 4% !important;
+      }  
+
+      .sectionsixprg{
+        padding-left: 8% !important;
+        padding-top: 15% !important;
+        font-size: 148% !important;
+      }
+
+      .sectionsixprg >p{
+        padding-top: 3% !important;
+        
+      }
+
+      .sectionsixsix{
+        flex-direction: column !important;
+        padding-bottom: 2% !important;
+        }
+
+        .sectionseven{
+            flex-direction: column !important;
+            padding-right: 4% !important;
+            padding-top: 12% !important;
+           }
+    
+           .imageframe{
+           padding-top: 5% !important;
+           padding-bottom: 10% !important;
+           }
+    
+           .sectionseven1 >p{
+            font-size: 22px !important;
+           }
+    
+           .secsection{
+            display: grid !important;
+            grid-template-columns: repeat(2,4fr) !important;
+           }
+
+           
+           .sectionseven3{
+            font-size: 130% !important;
+            padding-left: 15% !important;
+            padding-top: 50% !important;
+           }
+    
+           .sectionseven4{
+            font-size: 130% !important;
+            padding-left: 4% !important;
+            padding-top: 50% !important;
+           }
+    
+           .sectionseven5{
+            font-size: 130% !important;
+            padding-left: 15% !important;
+            
+           }
+    
+           .sectionseven6{
+            font-size: 130% !important;
+            padding-left: 4% !important;
+          
+           }
+    
+           .sectionsvn{
+            flex-direction: column !important;
+            padding-left: 4% !important;
+            
+           }
+    
+           .sectionsvn1 >p{
+            font-size: 30px !important;
+            padding-top: 70% !important;
+            
+           }
+    
+           .sectionsvn1 >img{
+            padding-top: 5% !important;
+            width: 360px !important;
+            height: 320px !important;
+            padding-bottom: 15% !important;
+           }
+    
+           .sectionseven33{
+            font-size: 130% !important;
+            padding-left: 4% !important;
+          
+           }
+    
+           .sectionseven44{
+            font-size: 130% !important;
+            padding-left: 4% !important;
+            
+           }
+    
+           .sectionseven55{
+            font-size: 130% !important;
+            padding-left: 4% !important;
+           
+           }
+    
+           .sectionseven66{
+            font-size: 130% !important;
+            padding-left: 4% !important;
+         
+           }
+    
+            .lastlast{
+                flex-direction: column !important;
+                justify-content: center !important;
+                font-size: 18px !important;
+                padding-top: 69% !important;
+                padding-left: 16% !important;
+                
+            }
+            .lastlast1{
+                padding-top: 5% !important;
+                padding-bottom: 5% !important;
+                padding-left: 22% !important;
+                font-size: 110% !important;
+            }
+
+        }
+
+
+
+
+ 
+/* navigation bar */
+/* for tablet screens */
+@media only screen and(min-width:601px) and (max-width:1024px){
+    .Navbar{
+        padding-left: 4% !important;
+        padding-right: 4% !important;
+    }
+    .link   >select{
+        display: none !important;
+    }
+    .btn >button{
+        display: none !important;
+    }
+    .logo{
+        font-size: 20px !important;
+    }
+
+    .menu{
+        display: block !important;
+      }
+      .icon{
+        display: block !important;
+      }
+      .exit-icon{
+        display: block !important;
+      }
+
+    .herosection{
+        padding-left: 4% !important;
+        padding-right: 4% !important;
+        justify-content: center !important;
+        display: flex !important;
+        flex-direction: column !important;
+    }
+
+    .headinh{
+        justify-content: center !important;
+        display: flex !important;
+        padding-top: 25% !important;
+        font-weight: 400px !important;
+        text-align: left !important;
+     
+        
+    }   
+     .subheading{
+        font-size: 30px !important;
+        padding-top: 5% !important;
+     }
+
+     .heroimg{
+        padding-top: 8% !important;
+
+    }
+    
+    .radio{
+        padding-top: 5% !important;
+        font-size: 21px !important;
+        justify-content: space-between !important; 
+    }
+
+    .sub{ 
+        padding-top: 15% !important;
+        padding-bottom: 6% !important;
+        padding-left: 4% !important;
+        padding-right: 4% !important;
+        font-size: 109% !important;
+     }
+
+     .rdsection{
+        padding-left: 4% !important;
+        padding-right: 4% !important;
+        flex-direction: column !important;
+        padding-bottom: 35% !important;
+
+    }
+    .cost{
+        font-size: 90% !important;
+    }
+
+    .premium{
+        font-size: 33px !important;
+        padding-top: 5% !important;
+    }
+
+    .thewhole{
+        display: none !important;
+    }
+
+    .toquickly {
+        padding-top: 4% !important;
+        font-size: 18px !important;
+        line-height: 25px !important;
+    }
+   .Rectangle{
+        padding-left: 4% !important;
+        padding-right: 4% !important;
+        padding-top: 8% !important;
+      
+    
+   }
+
+   .the3image {
+        flex-direction: column !important;
+      
+    }
+
+    .iimmage >img{  
+        padding-top: 20% !important;
+        padding-left: 12% !important; 
+    }
+
+    .iimmage >p{
+        padding-top: 36% !important;
+        padding-left: 12% !important; 
+        font-size: 132% !important;
+    }
+
+    .image22{
+        padding-left: 12% !important;
+        padding-top: 83% !important;
+        font-size:  112% !important;
+    }
+        
+        .iimmaagge{
+            padding-left: 12% !important;
+            padding-top: 143% !important;
+            font-size:  112% !important;
+        }
+
+    .sectionfour{
+        display: flex !important;
+        flex-direction: column !important;
+        }
+    
+    .sectionfourimages {
+         padding-top: 186% !important;
+         padding-left: 4% !important;
+         padding-right: 4% !important;
+        }
+     
+   .sectionfourimg {
+        padding-top: 210% !important;
+        }
+
+    .machine{
+        padding-left: 4% !important;
+        padding-right: 4% !important;
+        font-size: 22px !important;
+        padding-top: 15% !important;
+    }
+
+    .machine h1 {
+        font-size: 200% !important;
+    }
+
+    .paragraphpb{
+        font-size: 30px !important;    
+    }
+
+    .sectionfourlogo{
+        padding-top: 7% !important;
+        max-width: 100% !important;
+        
+        
+
+    }
+    
+    .sectionfourbtn{
+        padding-top: 7% !important;
+       
+    
+    }
+
+    .lastpart{
+        flex-direction: column !important;
+    }
+
+    .lastpart >img{
+        padding-top : 4% !important ;
+        width: 60px !important;
+        height: 70px !important;
+        
+    }
+
+    .lastpart >p{
+       font-size: 24px !important;
+       
+        
+    }
+    
+    .lastpart2{
+        flex-direction: column !important;
+    }
+
+    .lastpart2 >img{
+        padding-top : 4% !important ;
+        width: 60px !important;
+        height: 70px !important;
+    }
+
+    .lastpart2 >p{
+       font-size: 24px !important;
+     }
+
+     .sectionfive{
+        height: 900px !important;
+        padding-left: 4% !important;
+        padding-right: 4% !important;
+        padding-top: 12% !important;
+
+    }
+
+    .sectionfive  >h1{
+        font-size: 35px !important;
+      
+
+    }
+
+    .radiobutton{
+        flex-direction: column !important;
+        font-size: 30px !important;
+        padding-top: 8% !important;
+    }
+
+  
+
+      .img2{
+        padding-top: 12% !important;
+      }
+
+      .img3{
+        padding-top: 12% !important;
+       
+      }
+
+      .sectionsix{
+        padding-top: 20% !important;
+        padding-left: 4% !important;
+        padding-left: 4% !important;
+      }  
+
+      .sectionsixprg{
+        padding-left: 8% !important;
+        padding-top: 15% !important;
+        font-size: 148% !important;
+      }
+
+      .sectionsixprg >p{
+        padding-top: 3% !important;
+        
+      }
+
+      .sectionsixsix{
+        flex-direction: column !important;
+        padding-bottom: 2% !important;
+        }
+
+        .sectionseven{
+            flex-direction: column !important;
+            padding-left: 4% !important;
+            padding-right: 4% !important;
+            padding-top: 12% !important;
+           }
+    
+           .imageframe{
+           padding-top: 5% !important;
+           padding-bottom: 10% !important;
+           }
+    
+           .sectionseven1 >p{
+            font-size: 24px !important;
+           }
+    
+           .secsection{
+            display: grid !important;
+            grid-template-columns: repeat(2,4fr) !important;
+           }
+
+           
+           .sectionseven3{
+            font-size: 130% !important;
+            padding-left: 4% !important;
+            padding-top: 50% !important;
+           }
+    
+           .sectionseven4{
+            font-size: 130% !important;
+            padding-left: 4% !important;
+            padding-top: 50% !important;
+           }
+    
+           .sectionseven5{
+            font-size: 130% !important;
+            padding-left: 4% !important;
+            
+           }
+    
+           .sectionseven6{
+            font-size: 130% !important;
+            padding-left: 4% !important;
+          
+           }
+    
+           .sectionsvn{
+            flex-direction: column !important;
+            padding-left: 4% !important;
+            
+           }
+    
+           .sectionsvn1 >p{
+            font-size: 30px !important;
+            padding-top: 70% !important;
+            
+           }
+    
+           .sectionsvn1 >img{
+            padding-top: 5% !important;
+            width: 360px !important;
+            height: 320px !important;
+            padding-bottom: 15% !important;
+           }
+    
+           .sectionseven33{
+            font-size: 130% !important;
+            padding-left: 4% !important;
+          
+           }
+    
+           .sectionseven44{
+            font-size: 130% !important;
+            padding-left: 4% !important;
+            
+           }
+    
+           .sectionseven55{
+            font-size: 130% !important;
+            padding-left: 4% !important;
+           
+           }
+    
+           .sectionseven66{
+            font-size: 130% !important;
+            padding-left: 4% !important;
+         
+           }
+    
+            .lastlast{
+                flex-direction: column !important;
+                justify-content: center !important;
+                font-size: 18px !important;
+                padding-top: 69% !important;
+                padding-left: 16% !important;
+                
+            }
+            .lastlast1{
+                padding-top: 5% !important;
+                padding-bottom: 5% !important;
+                padding-left: 22% !important;
+                font-size: 110% !important;
+            }
+}

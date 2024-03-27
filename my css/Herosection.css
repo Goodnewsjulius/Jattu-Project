@@ -1,0 +1,41 @@
+.herosection{
+   padding-top: 8%;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   padding-left: 7%;
+   padding-right: 5%;
+   z-index: 50;
+}
+
+.headinh >h1{
+    color: #1F284F;
+    font-family: Poppins;
+    font-size: 50px;
+    font-weight: 700px;
+    line-height: 60px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+.subheading{
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #575757;
+    max-width: 17em;
+    padding-top: 1%;
+}
+.radio{
+    padding-top: 2%;
+    justify-content: space-between;
+    
+}
+.book{
+    padding-top: 3%;
+    
+}
+
+
